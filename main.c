@@ -24,7 +24,7 @@ composite video matrix switcher without audio.
 
 
 ======================
-Items to fix on schematic/PCB hello
+Items to fix on schematic/PCB hello man
 ======================
 (1)  Reverse connections between top and bottom connectors.
 (2)  Switch data bus to LCD bit 7.  Was on PB.7, change to PC.4
